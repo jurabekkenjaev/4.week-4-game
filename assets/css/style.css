@@ -1,0 +1,26 @@
+.characters {
+    height: 120px;
+    width: 240;
+    padding: 8px;
+    margin-left: 0;
+}
+
+.imgBox {
+    border: 2px solid green;
+    background-color: white;
+    text-align: center;
+    font-family: Georgia;
+}
+
+#darthSidious {
+    padding-left: 7px;
+}
+
+body {
+    color: blue;
+    background-color: orange;
+}
+
+.jumbotron {
+    background-color: lightgreen;
+}
